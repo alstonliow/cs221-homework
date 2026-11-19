@@ -1,0 +1,7 @@
+# HW 5 builds on UC Berkeley's Pac-Man framework, whose licence asks that solutions
+# not be published; this repository is public, so its code stays local.
+pacman/*
+!pacman/README.md
+
+# macOS
+.DS_Store
